@@ -1,6 +1,6 @@
 # pong-game
 
-This is a two player pong game.
+This is a two player pong game created with Python Turtle.
 
 Player on the left side of the screen moves his paddle with W (goes up) and S (goes down) buttons.
 
